@@ -1,0 +1,29 @@
+{
+  "name": "cyber_fest",
+  "version": "1.0.0",
+  "description": "Project with html, scss and javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinsmake/CyberFest.git"
+  },
+  "keywords": [
+    "SASS",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Enrique Vinsmake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinsmake/CyberFest/issues"
+  },
+  "homepage": "https://github.com/vinsmake/CyberFest#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
